@@ -37,3 +37,15 @@ section {
 section:nth-child(even) {
   background-color: #ddd;
 }
+
+.article {
+  max-width: 300px;
+  margin: auto;
+  padding: 0;
+  background-color: #aaa;
+}
+
+.article-image {
+  min-height: 250px;
+  background-color: white;
+}
